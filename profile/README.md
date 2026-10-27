@@ -1,4 +1,4 @@
-![Yug Solutions — Progress, connected. Software engineering and UK government API integration. GovBridge is in preview.](https://github.com/Yug-Solutions/.github/blob/main/yug-solutions-cover.png?raw=true)
+![Yug Solutions — Progress, connected. Software engineering and UK government API integration. GovBridge is in preview.](https://github.com/Yug-Solutions/.github/blob/main/yug-solutions-banner.png?raw=true)
 
 ### Your software. Government data. A clearer connection.
 
